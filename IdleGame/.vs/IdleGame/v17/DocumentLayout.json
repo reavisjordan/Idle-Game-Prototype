@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Jordan\\Desktop\\Unity Projects\\Idle-Game-Prototype\\IdleGame\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6F4722-85C6-EB83-09A1-874E7EFE4564}|Assembly-CSharp.csproj|c:\\users\\jordan\\desktop\\unity projects\\idle-game-prototype\\idlegame\\assets\\scripts\\resourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6F4722-85C6-EB83-09A1-874E7EFE4564}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResourceManager.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Desktop\\Unity Projects\\Idle-Game-Prototype\\IdleGame\\Assets\\Scripts\\ResourceManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResourceManager.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Desktop\\Unity Projects\\Idle-Game-Prototype\\IdleGame\\Assets\\Scripts\\ResourceManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResourceManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T23:33:16.294Z",
+              "EditorCaption": ""
             }
           ]
         }
